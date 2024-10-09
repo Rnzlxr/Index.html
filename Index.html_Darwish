@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+</head>
+  <title>Hello World</title>
+  <style>
+    body {
+      background-color: #f0f8ff; /* Light background color */
+    }
+    h1 {
+        color: #4682b4; /* Blue color for the heading */
+    }
+    p {
+        color: #2f4f4f; /* Dark gray color fo rparagraphs */
+    }
+  </style>
+</head>
+<body>
+    <h1>My name is Yusif</h1>
+  <p>I am a web development student. I enjoy coding and solving problems. In my free time, I like to read books and play video games.</p>
+  <p>I am also interested in cybersecurity and love exploring new technology trends.</p>
+  <p>My goal is to become a professional in web development and technology security fields.</p>
+</body>
+</html>
+    
